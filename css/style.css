@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: #2980b9;
+    margin: 0;
+    padding: 100px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+#p{
+    color: white;
+    font-size: 16px;
+}
+.form{
+    display: flex;
+}
+#number{
+    width: 50px;
+}
